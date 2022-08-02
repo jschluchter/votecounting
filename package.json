@@ -7,7 +7,7 @@
     "serve": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Clark Kent",
+  "author": "Joey Schluchter",
   "license": "ISC",
   "dependencies": {
     "@fastify/static": "^5.0.0",
