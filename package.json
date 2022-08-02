@@ -1,0 +1,17 @@
+{
+  "name": "demoredisnode",
+  "version": "0.0.7",
+  "description": "Demo of Nodejs (fastify) with a redis state store",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clark Kent",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/static": "^5.0.0",
+    "fastify": "3.29",
+    "redis": "^4.2.0"
+  }
+}
